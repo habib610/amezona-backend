@@ -17,7 +17,6 @@ const data = {
     ,
     products : [
         {
-            _id: "1",
             name: 'Awesome Shirt',
             category: 'Shirts',
             image: 'images/s2.jpg',
@@ -29,7 +28,6 @@ const data = {
             description: "high quality shirts"
         },
         {
-            _id: "2",
             name: 'Outstanding Shirt',
             category: 'Shirts',
             image: 'images/s1.jpg',
@@ -41,7 +39,6 @@ const data = {
             description: "high quality shirts"
         },
         {
-            _id: "3",
             name: 'Trending Shirt',
             category: 'Shirts',
             image: 'images/s3.jpg',
@@ -53,7 +50,6 @@ const data = {
             description: "high quality shirts"
         },
         {
-            _id: "4",
             name: 'Gorgeous Shirt',
             category: 'Shirts',
             image: 'images/s4.jpg',
@@ -65,7 +61,6 @@ const data = {
             description: "high quality shirts"
         },
         {
-            _id: "5",
             name: 'Fit Shirt',
             category: 'Shirts',
             image: 'images/s5.jpg',
@@ -77,7 +72,6 @@ const data = {
             description: "high quality shirts"
         },
         {
-            _id: "6",
             name: 'Nike Shirts',
             category: 'Shirts',
             image: 'images/s6.jpg',
@@ -89,7 +83,6 @@ const data = {
             description: "high quality shirts"
         },
         {
-            _id: "7",
             name: 'Being Human Shirts',
             category: 'Shirts',
             image: 'images/s7.jpg',
